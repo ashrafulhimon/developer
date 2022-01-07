@@ -56,8 +56,9 @@ h2{
 }
 .bt{
     margin: -6%;
+    text-decoration-color: white;
     text-align: center;
-    background-color:  rgb(216, 173, 64);
+    background-color:  rgb(22, 22, 21);
     padding-top: 1%;
     padding-bottom: 1%;
 }
