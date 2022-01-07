@@ -62,5 +62,10 @@ h2{
     padding-top: 1%;
     padding-bottom: 1%;
 }
+.background{
+    background: url(shapes/shape-1.png);
+    background-repeat: no-repeat;
+    background-size: 100px 100px;
+}   
 
 
